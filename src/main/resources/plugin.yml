@@ -1,0 +1,3 @@
+name: NotzStorageSupport
+version: '${version}'
+main: notzstoragesupport.Main
